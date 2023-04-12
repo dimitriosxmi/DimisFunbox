@@ -1,0 +1,231 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_de
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: de
+  m_SharedData: {fileID: 11400000, guid: 242f2a4c39804124ab7bd7c520f793cb, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8948083582601003020
+  m_TableData:
+  - m_Id: 54014545920
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2815078731776
+    m_Localized: Seite {globalUI.PageCounter}/{globalUI.PageTotalCount}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083582601003020
+  - m_Id: 57470542450688
+    m_Localized: Hilfe
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58724417048576
+    m_Localized: Z Skala {globalUI.ZScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083582601003020
+  - m_Id: 58705572040704
+    m_Localized: Y Skala {globalUI.YScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083582601003020
+  - m_Id: 58651658457088
+    m_Localized: "Gr\xF6sse {globalUI.Size}"
+    m_Metadata:
+      m_Items:
+      - rid: 8948083582601003020
+  - m_Id: 58669308088320
+    m_Localized: X Skala {globalUI.XScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083582601003020
+  - m_Id: 57535713546240
+    m_Localized: Keine
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57926119362560
+    m_Localized: Niedrig
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57973913456640
+    m_Localized: Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57995405070336
+    m_Localized: Hoch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58020147269632
+    m_Localized: Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58042494521344
+    m_Localized: Physik
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58072626401280
+    m_Localized: Schwere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58089403617280
+    m_Localized: Metallisch
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58115810955264
+    m_Localized: Magnet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58146521649152
+    m_Localized: "Magnetst\xE4rke"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58430798991360
+    m_Localized: Magnet Reichweite
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58476177166336
+    m_Localized: Reibung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58522893324288
+    m_Localized: "H\xFCpf"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58544011644928
+    m_Localized: Masse
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58776543858688
+    m_Localized: Baumodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58840469245952
+    m_Localized: Radiermodus
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58908517634048
+    m_Localized: Raster/ Freie hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58966596161536
+    m_Localized: Vertikale Baurichtung
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59027891720192
+    m_Localized: Manuell/ Automatisches Bau
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60979274878976
+    m_Localized: "Alles L\xF6schen"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106895465811968
+    m_Localized: Kasten
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107168624054272
+    m_Localized: Kugel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107242779348992
+    m_Localized: Zylinder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107286215561216
+    m_Localized: Kegel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107816732102656
+    m_Localized: "Flie\xDFband"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107948873650176
+    m_Localized: Feder Plattform
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107991982706688
+    m_Localized: Kreisel
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108075705208832
+    m_Localized: Schwerkraftfeld
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452698906595328
+    m_Localized: "Weltweit gibt es \xFCber 7000 seltene Krankheiten.\r\nUnd etwa
+      95 % davon sind nicht heilbar.\r\nDurchschnittlich 4,5 % der Weltbev\xF6lkerung
+      leiden an seltenen Krankheiten.\r\nDas sind etwa 350 Millionen Menschen.\r\nEine
+      Reihe dieser seltenen Krankheiten beeintr\xE4chtigen die k\xF6rperliche und/oder
+      geistige Gesundheit einer Person."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 455621455679488
+    m_Localized: "Hier sind ein paar..\r\nMotoneuronerkrankung: Sch\xE4digt nach
+      und nach Teile des Nervensystems und verursacht Muskelschw\xE4che.\r\nAngelman-Syndrom:
+      Verursacht verz\xF6gerte Entwicklung, Sprach- und Gleichgewichtsst\xF6rungen,
+      geistige Behinderung und manchmal Krampfanf\xE4lle.\r\nApert-Syndrom: Verursacht
+      eine Verschmelzung der Sch\xE4del-, Hand- und Fu\xDFknochen."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495035091292160
+    m_Localized: "Osteogenesis imperfecta: Knochen brechen/brechen leicht ohne offensichtliche
+      Ursache oder durch minimale Verletzung.\r\nHuntington-Krankheit: Verursacht,
+      dass Neuronen in Teilen des Gehirns allm\xE4hlich zusammenbrechen und absterben.\r\nAllgemeiner
+      Myoklonus: Pl\xF6tzliches, schnelles, kurzes, unwillk\xFCrliches Zucken eines
+      Muskels (Gruppe)\r\nPost-Polio-Syndrom: Muskelschw\xE4che, geistige und k\xF6rperliche
+      Ersch\xF6pfung, Gelenkschmerzen.\r\nUnd viele viele mehr.\r\n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 499638646116352
+    m_Localized: "Personen, die von solchen Krankheiten betroffen sind, neigen dazu,
+      bestimmte Einschr\xE4nkungen bei der Teilnahme an einer Vielzahl von Aktivit\xE4ten
+      zu haben, einige sogar bei Videospielen, wo es viele Faktoren geben kann, die
+      ein Spiel aufgrund der Symptome, mit denen die Personen zu k\xE4mpfen haben,
+      extrem schwierig machen.\r"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 500688551710720
+    m_Localized: "Hier kommen digitale Spielzeuge wie dieses hier ins Spiel.\r\nEinem
+      Individuum mit sehr einfachen Steuerungsmitteln zu erm\xF6glichen, die Elemente
+      des \xD6kosystems mit nur ein wenig optionaler Kreativit\xE4t in einer Vielzahl
+      von Anwendungen einzusetzen und dadurch Freude am Videospielen zu erleben!\r\nDie
+      Welt braucht mehr digitales Spielzeug!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501590826192896
+    m_Localized: 'Dieses digitale Spielzeug wurde als Teil von https://itch.io/jam/patient73
+      Game Jam erstellt, das von Patient73Hub gehostet wird!
+
+      
+
+      Erfahren
+      Sie mehr unter https://patient73.org
+
+      
+
+      von Dimitrios Kitsikidis
+
+      mit
+      Liebe und Sorgfalt gemacht!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8948083582601003020
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0090c46f8f020000009004d8683500000090c47464350000009044e757350000009044035c350000

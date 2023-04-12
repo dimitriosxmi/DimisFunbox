@@ -1,0 +1,196 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5b11a58205ec3474ca216360e9fa74a8, type: 3}
+  m_Name: UI Text Shared Data
+  m_EditorClassIdentifier: 
+  m_TableCollectionName: UI Text
+  m_TableCollectionNameGuidString: 242f2a4c39804124ab7bd7c520f793cb
+  m_Entries:
+  - m_Id: 54014545920
+    m_Key: gameInfo.title
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2815078731776
+    m_Key: gameInfo.pagecounter
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57470542450688
+    m_Key: gameInfo.help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57535713546240
+    m_Key: tileSettings.none
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57926119362560
+    m_Key: tileSettings.low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57973913456640
+    m_Key: tileSettings.default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57995405070336
+    m_Key: tileSettings.high
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58020147269632
+    m_Key: tileSettings.max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58042494521344
+    m_Key: tileSettings.physics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58072626401280
+    m_Key: tileSettings.gravity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58089403617280
+    m_Key: tileSettings.metalic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58115810955264
+    m_Key: tileSettings.magnet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58146521649152
+    m_Key: tileSettings.magneticStrength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58430798991360
+    m_Key: tileSettings.magneticRange
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58476177166336
+    m_Key: tileSettings.friction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58522893324288
+    m_Key: tileSettings.bounce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58544011644928
+    m_Key: tileSettings.mass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58651658457088
+    m_Key: tileSettings.size
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58669308088320
+    m_Key: tileSettings.xScale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58705572040704
+    m_Key: tileSettings.yScale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58724417048576
+    m_Key: tileSettings.zScale
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58776543858688
+    m_Key: core.buildMode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58840469245952
+    m_Key: core.erarerMode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58908517634048
+    m_Key: core.gridFreehand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58966596161536
+    m_Key: core.verticalBuildDirection
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59027891720192
+    m_Key: core.manualAutoBuilding
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60979274878976
+    m_Key: eraseAll
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106895465811968
+    m_Key: tilePick.box
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107168624054272
+    m_Key: tilePick.sphere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107242779348992
+    m_Key: tilePick.cylinder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107286215561216
+    m_Key: tilePick.cone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107816732102656
+    m_Key: tilePick.conveyorBelt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107948873650176
+    m_Key: tilePick.springPlatform
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107991982706688
+    m_Key: tilePick.Spinner
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108075705208832
+    m_Key: tilePick.gravityField
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448400806154240
+    m_Key: gameTitleTop
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452698906595328
+    m_Key: gameInfo.p1text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 455621455679488
+    m_Key: gameInfo.p2text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495035091292160
+    m_Key: gameInfo.p3text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 499638646116352
+    m_Key: gameInfo.p4text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 500688551710720
+    m_Key: gameInfo.p5text
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501590826192896
+    m_Key: gameInfo.p6text
+    m_Metadata:
+      m_Items: []
+  m_Metadata:
+    m_Items: []
+  m_KeyGenerator:
+    rid: 8948083579501936664
+  references:
+    version: 2
+    RefIds:
+    - rid: 8948083579501936664
+      type: {class: DistributedUIDGenerator, ns: UnityEngine.Localization.Tables, asm: Unity.Localization}
+      data:
+        m_CustomEpoch: 1680086859637

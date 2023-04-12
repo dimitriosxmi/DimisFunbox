@@ -1,0 +1,256 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_en
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: en
+  m_SharedData: {fileID: 11400000, guid: 242f2a4c39804124ab7bd7c520f793cb, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8948083579501936697
+  m_TableData:
+  - m_Id: 54014545920
+    m_Localized: Information
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2815078731776
+    m_Localized: Page {globalUI.PageCounter}/{globalUI.PageTotalCount}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083579501936697
+  - m_Id: 57470542450688
+    m_Localized: Help
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57535713546240
+    m_Localized: None
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58724417048576
+    m_Localized: Z Scale {globalUI.ZScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083579501936697
+  - m_Id: 58705572040704
+    m_Localized: Y Scale {globalUI.YScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083579501936697
+  - m_Id: 58669308088320
+    m_Localized: X Scale {globalUI.XScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083579501936697
+  - m_Id: 58651658457088
+    m_Localized: Size {globalUI.Size}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083579501936697
+  - m_Id: 57926119362560
+    m_Localized: Low
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57973913456640
+    m_Localized: Default
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57995405070336
+    m_Localized: High
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58020147269632
+    m_Localized: Max
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58042494521344
+    m_Localized: Physics
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58072626401280
+    m_Localized: Gravity
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58089403617280
+    m_Localized: Metallic
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58115810955264
+    m_Localized: Magnet
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58146521649152
+    m_Localized: Magnet Strength
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58430798991360
+    m_Localized: Magnet Range
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58476177166336
+    m_Localized: Friction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58522893324288
+    m_Localized: Bounce
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58544011644928
+    m_Localized: Mass
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58776543858688
+    m_Localized: Build Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58840469245952
+    m_Localized: Eraser Mode
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58908517634048
+    m_Localized: Grid/ Free hand
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58966596161536
+    m_Localized: Vertical Build Direction
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59027891720192
+    m_Localized: Manual-/ Auto Build
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60979274878976
+    m_Localized: Erase All
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106895465811968
+    m_Localized: Box
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107168624054272
+    m_Localized: Sphere
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107242779348992
+    m_Localized: Cylinder
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107286215561216
+    m_Localized: Cone
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107816732102656
+    m_Localized: Conveyor Belt
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107948873650176
+    m_Localized: Spring platform
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107991982706688
+    m_Localized: Spinning top
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108075705208832
+    m_Localized: Gravity field
+    m_Metadata:
+      m_Items: []
+  - m_Id: 448400806154240
+    m_Localized: 
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452698906595328
+    m_Localized: 'There are over 7000 rare diseases in the world.
+
+      And about
+      95% of those have no cure.
+
+      An average of 4.5% of the world''s population
+      is suffering from rare diseases.
+
+      That''s about 350 Million people.
+
+      A
+      number of those rare diseases affect the physical and/ or mental health of
+      an individual.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 455621455679488
+    m_Localized: 'Here''s a few..
+
+      Motor neurone disease: Progressively damages
+      parts of the nervous system and causes muscle weakness.
+
+      Angelman syndrome:
+      Causes delayed development, problems with speech and balance, intellectual
+      disability and sometimes seizures.
+
+      Apert syndrom: Causes fusion of the
+      skull, hands and feet bones.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495035091292160
+    m_Localized: 'Osteogenesis imperfecta: Bones fracture/ break easiliy without
+      obvious cause or through minimal injury.
+
+      Huntington''s disease: Causes
+      neurons in parts of the brain to gradually break down and die.
+
+      General
+      Myoclonus: Sudden, rapid, brief, involuntary jerking of a muscle(group)
+
+      Post
+      Polio Syndrome:  Muscle weakness, mental and physical fatigue, joint pain.
+
+      And
+      many many more.'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 499638646116352
+    m_Localized: Individuals affected by such diseases tend to have certain limitations
+      at participating to a variety of activities, some even in video gaming where
+      there can be a lot of factors that render a game extremely hard due to the
+      symptoms the individuals have to deal with.
+    m_Metadata:
+      m_Items: []
+  - m_Id: 500688551710720
+    m_Localized: 'This is where digital toys such as this right here come in.
+
+      Allowing
+      an individual with very simple means of controls to put the ecosystem''s elements
+      in a variety of uses with just a little bit of optional creativity and hereby
+      experience joy in video gaming!
+
+      The world needs more digital toys!'
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501590826192896
+    m_Localized: 'This digital toy was created as a part of https://itch.io/jam/patient73
+      game jam hosted by Patient73Hub!
+
+
+      Learn more at https://patient73.org
+
+
+      by
+      Dimitrios Kitsikidis
+
+      made with love and care!'
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8948083579501936697
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 0090c46f8f020000009004d8683500000090c47464350000009044035c350000009044e757350000

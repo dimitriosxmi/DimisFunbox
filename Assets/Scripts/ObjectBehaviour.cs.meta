@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: 559eb1772b1218246b13b2cced3c4fa2
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - deathParticles: {instanceID: 0}
+  - objectDataContainer: {instanceID: 0}
+  - myRigidbody: {instanceID: 0}
+  - _noBounceNoFriction: {fileID: 13400000, guid: 60d8b1a32639af44389159cb2ac1944f, type: 2}
+  - _noBounceLowFriction: {fileID: 13400000, guid: 39f520ebd8f619948a81b8f6768ec0fb, type: 2}
+  - _noBounceNormalFriction: {fileID: 13400000, guid: 24c3ff757e0437d4a9ba2559ae68b395, type: 2}
+  - _noBounceHighFriction: {fileID: 13400000, guid: 8adda729a2521e84fb2ca8232b7cf3e6, type: 2}
+  - _noBounceMaxFriction: {fileID: 13400000, guid: 5c6c52b3f24dee04d895413d23d65976, type: 2}
+  - _lowBounceNoFriction: {fileID: 13400000, guid: 754a2ef861b58fa4d80f989dacf284bf, type: 2}
+  - _lowBounceLowFriction: {fileID: 13400000, guid: 87a7a621c4bc7f44294ae1a2f06c5e69, type: 2}
+  - _lowBounceNormalFriction: {fileID: 13400000, guid: 0c916628156bc1f4a875d53dda0993b0, type: 2}
+  - _lowBounceHighFriction: {fileID: 13400000, guid: d86d9e726c328094f85c08def4c0cd67, type: 2}
+  - _lowBounceMaxFriction: {fileID: 13400000, guid: 8bdb0eb1f4b74b746b2b74a621e7307e, type: 2}
+  - _normalBounceNoFriction: {fileID: 13400000, guid: 127dfe7fa8059da4e9018fd58528b92e, type: 2}
+  - _normalBounceLowFriction: {fileID: 13400000, guid: ae5fef90419a95947bf73bf3fe19d2bb, type: 2}
+  - _normalBounceNormalFriction: {fileID: 13400000, guid: dfce7104ed2407a4085bb1a30c848c96, type: 2}
+  - _normalBounceHighFriction: {fileID: 13400000, guid: 84de88d162952f141b7328da35427e11, type: 2}
+  - _normalBounceMaxFriction: {fileID: 13400000, guid: 4a40809c8d06313458d9db9c6dafc073, type: 2}
+  - _highBounceNoFriction: {fileID: 13400000, guid: 6a3d8e4f09d3a96409ec3908e19ef513, type: 2}
+  - _highBounceLowFriction: {fileID: 13400000, guid: dae9772d27bd3054c87f97633cf01a27, type: 2}
+  - _highBounceNormalFriction: {fileID: 13400000, guid: 67c7ea64f134f904ba1c521eb6414978, type: 2}
+  - _highBounceHighFriction: {fileID: 13400000, guid: 871790000f251a24b8dabf4594d644bc, type: 2}
+  - _highBounceMaxFriction: {fileID: 13400000, guid: 68e740477f3175a4095155f84be564df, type: 2}
+  - _maxBounceNoFriction: {fileID: 13400000, guid: b0d6f399a3148e0479403f93f1e40d24, type: 2}
+  - _maxBounceLowFriction: {fileID: 13400000, guid: 49f5e1c078025f940b27b8082eb0556d, type: 2}
+  - _maxBounceNormalFriction: {fileID: 13400000, guid: 264bfb0a499d84e49b602c197d8d1963, type: 2}
+  - _maxBounceHighFriction: {fileID: 13400000, guid: 575d23f278cf4b74e937d7397596cc86, type: 2}
+  - _maxBounceMaxFriction: {fileID: 13400000, guid: 12803fa9c7c1d2e4d8a1e36c818ff64c, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

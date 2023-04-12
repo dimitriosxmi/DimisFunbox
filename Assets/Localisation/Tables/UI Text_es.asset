@@ -1,0 +1,220 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e9620f8c34305754d8cc9a7e49e852d9, type: 3}
+  m_Name: UI Text_es
+  m_EditorClassIdentifier: 
+  m_LocaleId:
+    m_Code: es
+  m_SharedData: {fileID: 11400000, guid: 242f2a4c39804124ab7bd7c520f793cb, type: 2}
+  m_Metadata:
+    m_Items:
+    - rid: 8948083594334044168
+  m_TableData:
+  - m_Id: 54014545920
+    m_Localized: "Informaci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 2815078731776
+    m_Localized: "P\xE1gina {globalUI.PageCounter}/{globalUI.PageTotalCount}"
+    m_Metadata:
+      m_Items:
+      - rid: 8948083594334044168
+  - m_Id: 57470542450688
+    m_Localized: Ayuda
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57535713546240
+    m_Localized: Ninguno
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57926119362560
+    m_Localized: Bajo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57973913456640
+    m_Localized: Por defecto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 57995405070336
+    m_Localized: Alto
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58020147269632
+    m_Localized: "M\xE1ximo"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58042494521344
+    m_Localized: "F\xEDsica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58072626401280
+    m_Localized: Gravedad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58089403617280
+    m_Localized: "Met\xE1lico"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58115810955264
+    m_Localized: "Im\xE1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58146521649152
+    m_Localized: "Fuerza del im\xE1n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58430798991360
+    m_Localized: Gama de imanes
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58476177166336
+    m_Localized: "Fricci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58522893324288
+    m_Localized: Rebotar
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58544011644928
+    m_Localized: Masa
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58651658457088
+    m_Localized: "Tama\xF1o {globalUI.Size}"
+    m_Metadata:
+      m_Items:
+      - rid: 8948083594334044168
+  - m_Id: 58669308088320
+    m_Localized: X Escala {globalUI.XScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083594334044168
+  - m_Id: 58705572040704
+    m_Localized: Y Escala {globalUI.YScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083594334044168
+  - m_Id: 58724417048576
+    m_Localized: Z Escala {globalUI.ZScale}
+    m_Metadata:
+      m_Items:
+      - rid: 8948083594334044168
+  - m_Id: 58776543858688
+    m_Localized: "Modo de construcci\xF3n"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58840469245952
+    m_Localized: Modo borrador
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58908517634048
+    m_Localized: "Funci\xF3n de borrador"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 58966596161536
+    m_Localized: "Direcci\xF3n de construcci\xF3n vertical"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 59027891720192
+    m_Localized: "Construcci\xF3n manual/autom\xE1tica"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 60979274878976
+    m_Localized: Borrar todo
+    m_Metadata:
+      m_Items: []
+  - m_Id: 106895465811968
+    m_Localized: Caja
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107168624054272
+    m_Localized: Esfera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107242779348992
+    m_Localized: Cilindro
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107816732102656
+    m_Localized: Cinta transportadora
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107286215561216
+    m_Localized: Cono
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107948873650176
+    m_Localized: Plataforma de primavera
+    m_Metadata:
+      m_Items: []
+  - m_Id: 107991982706688
+    m_Localized: Peonza
+    m_Metadata:
+      m_Items: []
+  - m_Id: 108075705208832
+    m_Localized: Campo de gravedad
+    m_Metadata:
+      m_Items: []
+  - m_Id: 452698906595328
+    m_Localized: "Hay m\xE1s de 7000 enfermedades raras en el mundo.\r\nY alrededor
+      del 95% de ellos no tienen cura.\r\nUna media del 4,5% de la poblaci\xF3n mundial
+      padece enfermedades raras.\r\nEso es alrededor de 350 millones de personas.\r\nVarias
+      de esas enfermedades raras afectan la salud f\xEDsica y/o mental de un individuo."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 455621455679488
+    m_Localized: "Aqu\xED hay algunos..\r\nEnfermedad de la neurona motora: da\xF1a
+      progresivamente partes del sistema nervioso y causa debilidad muscular.\r\nS\xEDndrome
+      de Angelman: Causa retraso en el desarrollo, problemas con el habla y el equilibrio,
+      discapacidad intelectual y, a veces, convulsiones.\r\nS\xEDndrome de Apert:
+      causa la fusi\xF3n de los huesos del cr\xE1neo, las manos y los pies."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 495035091292160
+    m_Localized: "Osteog\xE9nesis imperfecta: Los huesos se fracturan/rompen f\xE1cilmente
+      sin una causa obvia o por una lesi\xF3n m\xEDnima.\r\nEnfermedad de Huntington:
+      hace que las neuronas en partes del cerebro se rompan y mueran gradualmente.\r\nMioclono
+      general: espasmos repentinos, r\xE1pidos, breves e involuntarios de un m\xFAsculo
+      (grupo)\r\nS\xEDndrome Post Polio: Debilidad muscular, fatiga mental y f\xEDsica,
+      dolor en las articulaciones.\r\nY muchos muchos mas."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 499638646116352
+    m_Localized: "Las personas afectadas por tales enfermedades tienden a tener ciertas
+      limitaciones para participar en una variedad de actividades, algunas incluso
+      en videojuegos donde puede haber muchos factores que hacen que un juego sea
+      extremadamente dif\xEDcil debido a los s\xEDntomas que las personas tienen
+      que enfrentar."
+    m_Metadata:
+      m_Items: []
+  - m_Id: 500688551710720
+    m_Localized: "Aqu\xED es donde entran los juguetes digitales como este aqu\xED.\r\n\xA1Permitir
+      que un individuo con medios de control muy simples ponga los elementos del
+      ecosistema en una variedad de usos con solo un poco de creatividad opcional
+      y, por lo tanto, experimente alegr\xEDa en los videojuegos!\r\n\xA1El mundo
+      necesita m\xE1s juguetes digitales!"
+    m_Metadata:
+      m_Items: []
+  - m_Id: 501590826192896
+    m_Localized: "\xA1Este juguete digital se cre\xF3 como parte de https://itch.io/jam/patient73
+      game jam organizado por Patient73Hub!\r\n\r\nObtenga m\xE1s informaci\xF3n
+      en https://patient73.org\r\n\r\npor Dimitrios Kitsikidis\r\nhecho con amor
+      y cuidado!"
+    m_Metadata:
+      m_Items: []
+  references:
+    version: 2
+    RefIds:
+    - rid: 8948083594334044168
+      type: {class: SmartFormatTag, ns: UnityEngine.Localization.Metadata, asm: Unity.Localization}
+      data:
+        m_Entries: 009004d8683500000090c47464350000009044035c350000009044e7573500000090c46f8f020000
