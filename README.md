@@ -1,11 +1,16 @@
 # DimisFunbox
-2023 Q1 Game Jam Patient73 submition #patient73gamejam
+<p align="left">
+  Simple small physics sandbox.
+  <br>
+  2023 Q1 Game Jam submition #patient73gamejam.
+  <br/>
+  Unity WebGL game project, <a href="https://xmi.itch.io/dimisfunbox">Click here to play!</a>
+  <br/>
+  Developed in 12-13 Days
+</p>
 
-Play it on the web here: https://xmi.itch.io/dimisfunbox
 
-Developed in 12-13 Days
-
-Unity Editor Version: 2021.3.21f1
+<p>Unity Editor Version: 2021.3.21f1</p>
 
 Assets Used:
 - 3D Models:
